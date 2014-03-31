@@ -1,0 +1,4 @@
+S3method(Tosls,formula)
+export(Tosls)
+export(summary)
+import(Formula)
